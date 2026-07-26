@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://padi-mas-prima.vercel.app/sitemap.xml
